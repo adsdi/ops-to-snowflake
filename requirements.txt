@@ -1,0 +1,4 @@
+azure-functions
+azure-data-tables
+pandas
+snowflake-connector-python[pandas]
