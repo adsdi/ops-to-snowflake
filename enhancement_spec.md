@@ -1,0 +1,2 @@
+Authentication Refactor:
+"The current implementation uses a hardcoded connection string for Azure Table Storage. Refactor the TableServiceClient implementation to use DefaultAzureCredential and the table endpoint URL instead. Ensure this is fully mocked in the pytest suite."
